@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-SHELL BASICS
+shell basics readme
