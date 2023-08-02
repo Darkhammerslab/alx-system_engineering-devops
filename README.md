@@ -1,1 +1,4 @@
-shell basics readme
+
+# alx-system_engineering-devops
+SHELL BASICS
+print working directory
